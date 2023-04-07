@@ -34,7 +34,7 @@ export const info = {
     {
       name: "St Joseph Engineering College (SJEC)",
       location: "Vamanjoor, Mangaluru",
-      startDate: "Aug 2026",
+      startDate: "Aug 2022",
       endDate: "Aug 2026",
       description: [
         "Computer Science Engineering (CSE)",
