@@ -7,13 +7,13 @@
   <h3 align="center">Astro Portfolio Website 🧑🏻‍🚀</h3>
 
   <p align="center">
-    This is a portfolio website built using Astro JS, Tailwind CSS, and TypeScript JS originally by Uzair Ahmed. The website is designed to showcase your skills🌟, education🎒, and projects😎 to potential employers or clients.
+    This is a portfolio website built using Astro JS, Tailwind CSS, and TypeScript JS originally by Uzair Ahmed with necessary changes added by me. The website is designed to showcase your skills🌟, education🎒, and projects😎 to potential employers or clients.
     <br/>
     <br/>
     <a href="https://github.com/0X5h31d0n/ 0x5h31d0n.github.io"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/0X5h31d0n/ 0x5h31d0n.github.io">View Demo</a>
+    <a href="https://sheldon.is-a.dev">View Demo</a>
     .
     <a href="https://github.com/0X5h31d0n/ 0x5h31d0n.github.io/issues">Report Bug</a>
     .
