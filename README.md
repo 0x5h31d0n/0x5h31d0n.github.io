@@ -36,9 +36,9 @@
 
 ## Built With
 
-Astro JS
-Node JS
-Tailwind CSS
+Astro JS|
+Node JS|
+Tailwind CSS|
 TypeScript JS
 
 ## Getting Started
