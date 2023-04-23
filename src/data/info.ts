@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "#",
   name: "Sheldon Menezes",
   jobDescription: "Web dev",
-  about: `I am a web developer currently pursuing my engineering at SJEC College. My passion for web development began early on in my academic journey, and since then, I have been honing my skills and expanding my knowledge in this field and also in security part of it. I have experience with  HTML, CSS, JavaScript, and Python, and have worked on various web development projects in the past. At SJEC, I am continuing to build my skills and knowledge through hands-on experience with real-world projects and coursework. I am excited to see where my passion for web development will take me in the future, and am committed to staying up-to-date with the latest technologies and best practices in the field.`,
+  about: `I (Sheldon Angelo Menezes) am a web developer currently pursuing my engineering at SJEC College. My passion for web development began early on in my academic journey, and since then, I have been honing my skills and expanding my knowledge in this field and also in security part of it. I have experience with  HTML, CSS, JavaScript, and Python, and have worked on various web development projects in the past. At SJEC, I am continuing to build my skills and knowledge through hands-on experience with real-world projects and coursework. I am excited to see where my passion for web development will take me in the future, and am committed to staying up-to-date with the latest technologies and best practices in the field.`,
 
   experience: [
     {
