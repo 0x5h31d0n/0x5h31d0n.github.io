@@ -15,4 +15,7 @@ export default defineConfig({
     }),
     robotsTxt(),
   ],
+  experimental: {
+    viewTransitions: true,
+    },
 });
